@@ -1,4 +1,4 @@
-## Hi there 👋
+This is my first Git repository, created to explore and practice version control using Git and GitHub."
 
 <!--
 **Rayid-Ul-Islam/Rayid-Ul-Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
